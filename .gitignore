@@ -1,0 +1,17 @@
+# venv
+.venv/
+venv/
+env/
+
+# macOS & others
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
+
+# Local resources (keep generated drafts; you can remove if you prefer)
+# !resources/drafts/
